@@ -1,10 +1,12 @@
 ### Hi, I'm PHLAK (Chris Kankiewicz)!
 
-![PHLAK](https://raw.githubusercontent.com/PHLAK/phlak/master/phlak.png)
+I am a...
 
-
-
-I'm a passionate PHP developer, Linux junkie, gamer and coffee aficionado.  Dedicated husband and father of two.
+  - 👨‍💻 Passionate PHP developer
+  - 🐧 Linux junkie and open source enthusiast
+  - ☕ Coffee aficionado
+  - 🎮 PC gamer
+  - 👨‍👩‍👧‍👦 Dedicated husband and proud father of two
 
 Freel free to reach out to me at <Chris@ChrisKankiewicz.com> or [@PHLAK](https://twitter.com/PHLAK).
 
