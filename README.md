@@ -1,6 +1,8 @@
 ### Hi, I'm PHLAK (Chris Kankiewicz)!
 
-![PHLAK](phlak.png)
+![PHLAK](https://raw.githubusercontent.com/PHLAK/phlak/master/phlak.png)
+
+
 
 I'm a passionate PHP developer, Linux junkie, gamer and coffee aficionado.  Dedicated husband and father of two.
 
