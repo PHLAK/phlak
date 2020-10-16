@@ -5,7 +5,7 @@ I am a...
   - 👨‍💻 Passionate PHP developer
   - 🐧 Linux junkie and open source enthusiast
   - ☕ Coffee aficionado
-  - 🖥️ PC gamer
+  - 🖥️ Avid PC gamer
   - 👨‍👩‍👧‍👦 Dedicated husband and proud father of two
 
 Freel free to reach out to me at <Chris@ChrisKankiewicz.com> or [@PHLAK](https://twitter.com/PHLAK).
