@@ -1,4 +1,4 @@
-### Hi, I'm PHLAK (Chris Kankiewicz)!
+### Hi, I'm Chris Kankiewicz (a.k.a. PHLAK)!
 
 I am a...
 
